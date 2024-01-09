@@ -4,12 +4,11 @@
     - Docker
     - Docker compose
 	
-  ### Configuraçao da enviroments
-   - Configure os dados do arquivo .env (api_key, MONGO_IP, OWN_PORT)
-   Sendo:
-	api_key: é a chave de acesso gerada para acesso a API
-	MONGO_IP: o IP da maquina onde o Mondo DB esta instalado
-	OWN_PORT: porta na qual a aplicação ira rodar   
+  ### Configuraçao environment
+	- Configure os dados do arquivo .env (api_key, MONGO_IP, OWN_PORT), sendo:
+		-	api_key: é a chave de acesso gerada para acesso a API
+		-	MONGO_IP: o IP da maquina onde o Mondo DB esta instalado
+		-	OWN_PORT: porta na qual a aplicação ira rodar   
   
   ### Criar um ambiente virtual e instalar as dependências
     - Abra o terminal
